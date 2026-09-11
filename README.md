@@ -78,7 +78,7 @@ Servis isimleri yalnızca port numarasına göre yapılan tahminlerdir ve kesin 
 
 ## Ekran Görüntüleri
 
-Buraya uygulama ekran görüntüleri eklenecektir.
+![Port Scanner](portscanner.jpeg)
 
 ## Güvenlik ve Sorumlu Kullanım
 
